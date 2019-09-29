@@ -10,7 +10,7 @@ redirect_from:
   - /about/
   - /about.html
 ---  
-======
+
 ##Xuexin WANG
 
 ##Phone: (86)-592-2182202
