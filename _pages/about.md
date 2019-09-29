@@ -11,8 +11,6 @@ redirect_from:
   - /about.html
 ---  
 
-## Xuexin WANG
-
 ## Phone: (86)-592-2182202
 
 ## Email: xuexinwang@xmu.edu.cn
@@ -64,9 +62,7 @@ redirect_from:
 
 * 2012-	Introduction to Econometrics, Xiamen University
  
-* 2012-2013, 2016-2019
- 
-Probability Theory, Xiamen University
+* 2012-2013, 2016-2019, Probability Theory, Xiamen University
  
 * 2014	Advanced Econometrics I, Xiamen University
 
