@@ -25,7 +25,7 @@ Email: xuexinwang@xmu.edu.cn
 
 ## RESEARCH FIELDS
 
-*	Fixed-smoothing asymptotics；Weak identification；IV estimation；Empirical asset pricing 
+* Specification testing; Fixed-smoothing asymptotics；Weak identification；IV estimation；Empirical asset pricing 
 
 ## PUBLICATIONS
 
