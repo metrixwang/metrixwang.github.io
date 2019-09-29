@@ -25,7 +25,7 @@ Email: xuexinwang@xmu.edu.cn
 
 ## RESEARCH FIELDS
 
-*	Econometric Theory, Financial Econometrics, Applied Econometrics
+*	Fixed-smoothing asymptotics；Weak identification；IV estimation；Empirical asset pricing 
 
 ## PUBLICATIONS
 
