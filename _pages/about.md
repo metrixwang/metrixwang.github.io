@@ -10,7 +10,8 @@ redirect_from:
   - /about/
   - /about.html
 ---  
-Phone: (86)-592-2182202
+
+Phone: (86)-18350281887
 
 Email: xuexinwang@xmu.edu.cn
 
@@ -37,7 +38,7 @@ Email: xuexinwang@xmu.edu.cn
 
 1.	A New Class of Tests for Overidentifying Restrictions in Moment Condition Models (2018) (Single Author), R & R at Econometric Reviews
 
-2.	Asymptotic F Tests under Possibly Weak Identification (2019, With Julián Martínez-Iriarte and Yixiao Sun, UCSD), Revision required at Journal of Econometrics
+2.	Asymptotic F Tests under Possibly Weak Identification (2019, With Julián Martínez-Iriarte and Yixiao Sun, UCSD), conditionally accepted at Journal of Econometrics
 
 3.	An Asymptotic F Test for Uncorrelatedness in the Presence of Time Series Dependence (2019, with Yixiao Sun, UCSD), Revision required at Journal of time series analysis
 
