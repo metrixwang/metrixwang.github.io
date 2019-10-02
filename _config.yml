@@ -84,8 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "Assistant professor at the Wang Yanan Institute for Economics Studies, Xiamen University, Fujian, China"
   location         : "Location"
-  employer         :
-  pubmed           : "www.wise.xmu.edu.cn"
+  employer         :#"www.wise.xmu.edu.cn"
+  pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -178,13 +178,13 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  CV:
     output: true
     permalink: /:collection/:path/
-  talks:
+  others:
     output: true
     permalink: /:collection/:path/
 
@@ -218,30 +218,30 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _CV
   - scope:
       path: ""
-      type: #portfolio
+      type: #CV
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _others
   - scope:
       path: ""
-      type: Working Paper
+      type: others
     values:
-      layout: Working Paper
+      layout: others
       author_profile: true
       share: true
 
