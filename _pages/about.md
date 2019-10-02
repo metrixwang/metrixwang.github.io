@@ -34,7 +34,7 @@ Email: xuexinwang@xmu.edu.cn
 
 2.	A Joint Portmanteau Test for Conditional Mean and Variance Time Series Models, 2015, Journal of Time Series Analysis, Volume 36, 1, 39-60 (with Carlos Velasco)
 
-## WORKING PAPER
+## WORKING PAPERS
 
 1.	A New Class of Tests for Overidentifying Restrictions in Moment Condition Models (2018) (Single Author), R & R at Econometric Reviews
 
@@ -67,7 +67,7 @@ Email: xuexinwang@xmu.edu.cn
 * 2014	Advanced Econometrics I, Xiamen University
 
 
-## RESEARCH GRANT
+## RESEARCH GRANTS
 
 *	National Natural Science Foundation of China (No. 71973115), PI, 2020.01-2023.12,  RMB 480,000
 
