@@ -36,11 +36,11 @@ Email: xuexinwang@xmu.edu.cn
 
 ## WORKING PAPERS
 
-1.	A New Class of Tests for Overidentifying Restrictions in Moment Condition Models (2018) (Single Author), R & R at Econometric Reviews
+1.	A New Class of Tests for Overidentifying Restrictions in Moment Condition Models (2018) (Single Author), R & R at the Econometric Reviews
 
-2.	Asymptotic F Tests under Possibly Weak Identification (2019, With Julián Martínez-Iriarte and Yixiao Sun, UCSD), revision required at Journal of Econometrics
+2.	Asymptotic F Tests under Possibly Weak Identification (2019, With Julián Martínez-Iriarte and Yixiao Sun, UCSD), revision required at the Journal of Econometrics
 
-3.	An Asymptotic F Test for Uncorrelatedness in the Presence of Time Series Dependence (2019, with Yixiao Sun, UCSD), revision required at Journal of Time Series Analysis
+3.	An Asymptotic F Test for Uncorrelatedness in the Presence of Time Series Dependence (2019, with Yixiao Sun, UCSD), revision required at the Journal of Time Series Analysis
 
 4.	Consistent Estimation of Models Defined by Conditional Moment Restrictions Under Minimal Identifying Conditions (2019) (Single Author), submitted
 
