@@ -241,7 +241,7 @@ defaults:
       path: ""
       type: others
     values:
-      layout: others
+      layout: single
       author_profile: true
       share: true
 
