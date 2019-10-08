@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WISE, XMU"
+title                    : "Xuexin Wang"
 title_separator          : "-"
 name                     : &name "Xuexin Wang"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xuexin Wang"
+  name             : "xx"
   avatar           : "profile.png"
   bio              : "Assistant professor at the Wang Yanan Institute for Economics Studies, Xiamen University, Fujian, China"
   location         : "Location"
