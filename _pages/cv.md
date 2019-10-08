@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
+
    * 2008-2012 Ph.D in Economics, Universidad Carlos III de Madrid
    * 2006-2008 M.A in Economics, Universidad Carlos III de Madrid
    * 2003-2006 M.A in Economics, Fudan University, P.R.China
@@ -18,9 +18,8 @@ redirect_from:
 
 
 ## Publications
-======
-    1. A General Approach to Conditional Moment Specification Testing with Projections, 2018, Econometric Reviews, Volume 37, 2, 140-165 (Single Author)
-    2. A Joint Portmanteau Test for Conditional Mean and Variance Time Series Models, 2015, Journal of Time Series Analysis, Volume 36, 1, 39-60 (with Carlos Velasco)
+   1. A General Approach to Conditional Moment Specification Testing with Projections, 2018, Econometric Reviews, Volume 37, 2, 140-165 (Single Author)
+   2. A Joint Portmanteau Test for Conditional Mean and Variance Time Series Models, 2015, Journal of Time Series Analysis, Volume 36, 1, 39-60 (with Carlos Velasco)
 ## Working Papers
 
 1. A New Class of Tests for Overidentifying Restrictions in Moment Condition Models (2018) (Single Author), R & R at the Econometric Reviews
@@ -44,9 +43,11 @@ redirect_from:
   4. Robust moment tests with asymptotically F distributions (with Yixiao Sun, UCSD).
 
 ## Teaching
-======
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ## Research Grants
+
+
