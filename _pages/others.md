@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /Others/
+permalink: /others/
 title: "Others"
 excerpt: "Others"
 author_profile: true
