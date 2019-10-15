@@ -30,6 +30,6 @@ author_profile: true
 
 2.	Instrumental variable estimation via a continuum of instruments with an application to estimating the elasticity of intertemporal substitution in consumption (single author).
 
-3.	A consistent overidentification test for linear models with weak instruments (single au- thor).
+3.	A consistent overidentification test for linear models with weak instruments (single author).
 
 4.	Robust moment tests with asymptotically F distributions (with Yixiao Sun, UCSD).
