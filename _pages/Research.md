@@ -6,11 +6,11 @@ author_profile: true
 ---
 ## PUBLICATIONS
 
-1. Asymptotic F Tests under Possibly Weak Identification (2019, With Julián Martínez-Iriarte and Yixiao Sun, UCSD), accepted at the Journal of Econometrics	
+1. Asymptotic F Tests under Possibly Weak Identification, 2019, accepted at the Journal of Econometrics	(with Julián Martínez-Iriarte and Yixiao Sun, UCSD)
 
-2. A General Approach to Conditional Moment Specification Testing with Projections,  2018, Econometric Reviews, Volume 37, 2, 140-165 (Single Author)
+2. A General Approach to Conditional Moment Specification Testing with Projections, 2018, Econometric Reviews, Volume 37, 2, 140-165 (Single Author)
 
-3.	A Joint Portmanteau Test for Conditional Mean and Variance Time Series Models, 2015, Journal of Time Series Analysis, Volume 36, 1, 39-60 (with Carlos Velasco)
+3.	A Joint Portmanteau Test for Conditional Mean and Variance Time Series Models, 2015, Journal of Time Series Analysis, Volume 36, 1, 39-60 (with Carlos Velasco, UC3M)
 
 ## WORKING PAPERS
 
@@ -22,7 +22,9 @@ author_profile: true
 
 4.	A Simple Asymptotically F-Distributed Portmanteau Test for Time Series Models with Uncorrelated Innovations (2019, with Yixiao Sun, UCSD)
 
-5.	Improved Consistent Conditional Moment Test for Regression Models in The Presence   of Heteroskedasticity of Unknown Form (2013)
+5.  An Asymptotically F-Distributed Chow Test in the Presence of Heteroscedasticity and Autocorrelation (2019, with Derrick H. Sun and Yixiao Sun, UCSD)
+
+6.	Improved Consistent Conditional Moment Test for Regression Models in The Presence   of Heteroskedasticity of Unknown Form (2013)
 
 ## WORKING  IN PROGRESS
 
