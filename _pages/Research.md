@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## PUBLICATIONS
 
-1. A New Class of Tests for Overidentifying Restrictions in Moment Condition Models,2019 (Single Author), conditionally accepted at the Econometric Reviews
+1. A New Class of Tests for Overidentifying Restrictions in Moment Condition Models,2019, conditionally accepted at the Econometric Reviews, (Single Author)
 
 2. Asymptotic F Tests under Possibly Weak Identification, 2019, accepted at the Journal of Econometrics	(with Julián Martínez-Iriarte and Yixiao Sun, UCSD)
 
