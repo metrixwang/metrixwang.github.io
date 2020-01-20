@@ -19,11 +19,11 @@ redirect_from:
 
 ## Publications 
 
-1. An Asymptotic F Test for Uncorrelatedness in the Presence of Time Series Dependence, 2019, accepted at the Journal of Time Series Analysis (with Yixiao Sun, UCSD)
+1. An Asymptotic F Test for Uncorrelatedness in the Presence of Time Series Dependence, 2019, Journal of Time Series Analysis, forthcoming,  DOI: 10.1111/jtsa.1252  (with Yixiao Sun, UCSD)
 
-2. A New Class of Tests for Overidentifying Restrictions in Moment Condition Models, 2019, accepted at the Econometric Reviews, (Single Author)
+2. A New Class of Tests for Overidentifying Restrictions in Moment Condition Models, 2019, Econometric Reviews, forthcoming,  DOI: 10.1080/07474938.2019.1697085 (Single Author)
 
-3. Asymptotic F Tests under Possibly Weak Identification, 2019, accepted at the Journal of Econometrics (with Julián Martínez-Iriarte and Yixiao Sun, UCSD)
+3. Asymptotic F Tests under Possibly Weak Identification, 2019, Journal of Econometrics, forthcoming	(with Julián Martínez-Iriarte and Yixiao Sun, UCSD)
 
 4. A General Approach to Conditional Moment Specification Testing with Projections, 2018, Econometric Reviews, Volume 37, 2, 140-165 (Single Author)
 
