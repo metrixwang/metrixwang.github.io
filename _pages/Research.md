@@ -10,8 +10,7 @@ author_profile: true
 
 2. A New Class of Tests for Overidentifying Restrictions in Moment Condition Models, 2019, Econometric Reviews, forthcoming,  DOI: 10.1080/07474938.2019.1697085 (Single Author)
 
-3. Asymptotic F Tests under Possibly Weak Identification, 2019, Journal of Econometrics, forthcoming	(with Julián Martínez-Iriarte and Yixiao Sun, UCSD)
-
+3. Asymptotic F Tests under Possibly Weak Identification, 2019, Journal of Econometrics, forthcoming	10.1016/j.jeconom.2019.10.011 (with Julián Martínez-Iriarte and Yixiao Sun, UCSD)
 4. A General Approach to Conditional Moment Specification Testing with Projections, 2018, Econometric Reviews, Volume 37, 2, 140-165 (Single Author)
 
 5.	A Joint Portmanteau Test for Conditional Mean and Variance Time Series Models, 2015, Journal of Time Series Analysis, Volume 36, 1, 39-60 (with Carlos Velasco, UC3M)
