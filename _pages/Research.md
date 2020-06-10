@@ -19,9 +19,9 @@ author_profile: true
 
 1.	Consistent Estimation of Models Defined by Conditional Moment Restrictions Under Minimal Identifying Conditions (2019) (Single Author), submitted
 
-2.	A Simple Asymptotically F-Distributed Portmanteau Test for Time Series Models with Uncorrelated Innovations (2019, with Yixiao Sun, UCSD)
+2.	A Simple Asymptotically F-Distributed Portmanteau Test for Time Series Models with Uncorrelated Innovations (2019, with Yixiao Sun, UCSD)  R&R at the JBES
 
-3.  An Asymptotically F-Distributed Chow Test in the Presence of Heteroscedasticity and Autocorrelation (2019, with Derrick H. Sun and Yixiao Sun, UCSD)
+3.  An Asymptotically F-Distributed Chow Test in the Presence of Heteroscedasticity and Autocorrelation (2019, with Derrick H. Sun and Yixiao Sun, UCSD) R & R at ER
 
 4.	Improved Consistent Conditional Moment Test for Regression Models in The Presence   of Heteroskedasticity of Unknown Form (2013)
 
