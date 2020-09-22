@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## PUBLICATIONS
 
-1. An Asymptotic F Test for Uncorrelatedness in the Presence of Time Series Dependence, 2020, Journal of Time Series Analysis, forthcoming,  41(4):536-550  (with Yixiao Sun, UCSD)
+1. An Asymptotic F Test for Uncorrelatedness in the Presence of Time Series Dependence, 2020, Journal of Time Series Analysis,  41(4):536-550  (with Yixiao Sun, UCSD)
 
 2. A New Class of Tests for Overidentifying Restrictions in Moment Condition Models, 2020, Econometric Reviews, Volume 39, 5, 495-509. 
 
