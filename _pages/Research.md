@@ -18,7 +18,7 @@ author_profile: true
 
 ## WORKING PAPERS
 
-1.	Consistent Estimation of Models Defined by Conditional Moment Restrictions Under Minimal Identifying Conditions (2019) (Single Author), submitted
+1.	Consistent Estimation of Models Defined by Conditional Moment Restrictions Under Minimal Identifying Conditions (2019)
 
 2.	A Simple Asymptotically F-Distributed Portmanteau Test for Time Series Models with Uncorrelated Innovations (2019, with Yixiao Sun, UCSD)  conditionally accepted at the JBES
 
@@ -28,10 +28,10 @@ author_profile: true
 
 ## WORKING  IN PROGRESS
 
-1.	A new class of JIVE estimator for linear instrumental variable models (single author).
+1.	A new class of JIVE estimator for linear instrumental variable models.
 
-2.	Instrumental variable estimation via a continuum of instruments with an application to estimating the elasticity of intertemporal substitution in consumption (single author).
+2.	Instrumental variable estimation via a continuum of instruments with an application to estimating the elasticity of intertemporal substitution in consumption.
 
-3.	A consistent overidentification test for linear models with weak instruments (single author).
+3.	A consistent overidentification test for linear models with weak instruments.
 
 4.	Robust moment tests with asymptotically F distributions (with Yixiao Sun, UCSD).
