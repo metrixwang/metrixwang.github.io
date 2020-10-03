@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## PUBLICATIONS
 
-1. A Simple Asymptotically F-Distributed Portmanteau Test for Time Series Models with Uncorrelated Innovations (2020), accepted at the JBES  (with Yixiao Sun, UCSD) 
+1. A Simple Asymptotically F-Distributed Portmanteau Test for Time Series Models with Uncorrelated Innovations, (2020), Journal of Business & Economic Statistics, doi: 10.1080/07350015.2020.1832505, forthcoming  (with Yixiao Sun, UCSD) 
 
 2. Asymptotic F Tests under Possibly Weak Identification, 2020, Journal of Econometrics, 218 (1) 140-177 (with Julián Martínez-Iriarte and Yixiao Sun, UCSD)
 
