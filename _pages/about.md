@@ -15,7 +15,7 @@ Phone: (86)-18350281887
 
 Email: xuexinwang@xmu.edu.cn
 
-2012-	Assistant Professor, The Wang Yanan Institute for Studies in Economics, Xiamen University, China
+Associate Professor, The Wang Yanan Institute for Studies in Economics, Xiamen University, China
 
 ## EDUCATION
 
