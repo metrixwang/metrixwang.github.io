@@ -36,4 +36,4 @@ author_profile: true
 
 4.	Robust moment tests with asymptotically F distributions (with Yixiao Sun, UCSD).
 
-5.  Generalized spectral tests for multivariate martingale difference hypotheses 
+5.  Generalized spectral tests for high dimensional multivariate martingale difference hypotheses 
