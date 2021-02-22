@@ -22,9 +22,10 @@ author_profile: true
 
 ## WORKING PAPERS
 
-1.	Consistent Estimation of Models Defined by Conditional Moment Restrictions Under Minimal Identifying Conditions (2019)
+1.	Generalized spectral tests for high dimensional multivariate martingale difference hypotheses (2021).
 
-2.	Improved Consistent Conditional Moment Test for Regression Models in The Presence of Heteroskedasticity of Unknown Form (2013)
+2.	Consistent Estimation of Models Defined by Conditional Moment Restrictions Under Minimal Identifying Conditions (2019).
+
 
 ## WORKING  IN PROGRESS
 
@@ -36,4 +37,4 @@ author_profile: true
 
 4.	Robust moment tests with asymptotically F distributions (with Yixiao Sun, UCSD).
 
-5.  Generalized spectral tests for high dimensional multivariate martingale difference hypotheses. 
+5.  Goodness of fit tests for High dimensional multivariate time series models.  
