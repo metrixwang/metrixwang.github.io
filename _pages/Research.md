@@ -37,4 +37,4 @@ author_profile: true
 
 4.	Robust moment tests with asymptotically F distributions (with Yixiao Sun, UCSD).
 
-5.  Goodness of fit tests for High dimensional multivariate time series models.  
+5.  Goodness of fit tests for high dimensional multivariate time series models.  
