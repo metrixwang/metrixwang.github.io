@@ -18,7 +18,8 @@ redirect_from:
 
 
 ## Publications 
-1. An Asymptotically F-Distributed Chow Test in the Presence of Heteroscedasticity and Autocorrelation 2021,(with Yixiao Sun, UCSD), forthcoming at the Econometric Reviews
+1. An Asymptotically F-Distributed Chow Test in the Presence of Heteroscedasticity and Autocorrelation 2021, Econometric Reviews, forthcoming (with Yixiao Sun, UCSD)
+
 2. A Simple Asymptotically F-Distributed Portmanteau Test for Time Series Models with Uncorrelated Innovations, (2020), Journal of Business & Economic Statistics, doi: 10.1080/07350015.2020.1832505, forthcoming (with Yixiao Sun, UCSD)
 
 3. Asymptotic F Tests under Possibly Weak Identification, 2020, Journal of Econometrics, 218 (1) 140-177 (with Julián Martínez-Iriarte and Yixiao Sun, UCSD)
@@ -34,9 +35,10 @@ redirect_from:
 
 ## Working Papers
 
-1. Consistent Estimation of Models Defined by Conditional Moment Restrictions Under Minimal Identifying Conditions (2019) 
+1. Generalized spectral tests for high dimensional multivariate martingale difference hypotheses (2021).
 
-2. Improved Consistent Conditional Moment Test for Regression Models in The Presence of Heteroskedasticity of Unknown Form (2013)
+2. Consistent Estimation of Models Defined by Conditional Moment Restrictions Under Minimal Identifying Conditions (2019). 
+
 
 ## Working in Progess
 
@@ -48,7 +50,7 @@ redirect_from:
 
   4. Robust moment tests with asymptotically F distributions (with Yixiao Sun, UCSD).
   
-  5. General spectral tests for high dimensional multivariate martingale difference hypotheses.   
+  5. Goodness of fit tests for high dimensional multivariate time series models.
 
 ## Teaching
 
