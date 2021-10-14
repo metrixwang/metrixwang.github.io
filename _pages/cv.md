@@ -35,22 +35,22 @@ redirect_from:
 
 ## Working Papers
 
-1. Generalized spectral tests for high dimensional multivariate martingale difference hypotheses (2021).
+1. Instrumental variable estimation via a continuum of instruments with an application to estimating the elasticity of intertemporal substitution in consumption (2021).
 
-2. Consistent Estimation of Models Defined by Conditional Moment Restrictions Under Minimal Identifying Conditions (2019). 
+2. Generalized spectral tests for high dimensional multivariate martingale difference hypotheses (2021).
+
+3. Consistent Estimation of Models Defined by Conditional Moment Restrictions Under Minimal Identifying Conditions (2019). 
 
 
 ## Working in Progess
 
   1. A new class of JIVE estimator for linear instrumental variable models.
 
-  2. Instrumental variable estimation via a continuum of instruments with an application to estimating the elasticity of intertemporal substitution in consumption.
+  2. A consistent overidentification test for linear models with weak instruments.
 
-  3. A consistent overidentification test for linear models with weak instruments.
-
-  4. Robust moment tests with asymptotically F distributions (with Yixiao Sun, UCSD).
+  3. Robust moment tests with asymptotically F distributions (with Yixiao Sun, UCSD).
   
-  5. Goodness of fit tests for high dimensional multivariate time series models.
+  4. Goodness of fit tests for high dimensional multivariate time series models.
 
 ## Teaching
 
