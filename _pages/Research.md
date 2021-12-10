@@ -40,4 +40,3 @@ author_profile: true
 4.  Goodness of fit tests for high dimensional multivariate time series models. 
 
 5. Time Series Model estimation with correlation of distances. (with Carlos Velasco).  
-6.   
