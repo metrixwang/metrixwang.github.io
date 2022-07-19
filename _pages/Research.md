@@ -6,9 +6,11 @@ author_profile: true
 ---
 ## PUBLICATIONS
 
-1. An Asymptotically F-Distributed Chow Test in the Presence of Heteroscedasticity and Autocorrelation, 2021, Econometric Reviews, forthcoming (with Yixiao Sun, UCSD). 
 
-2. A Simple Asymptotically F-Distributed Portmanteau Test for Time Series Models with Uncorrelated Innovations, 2020, Journal of Business & Economic Statistics, forthcoming  (with Yixiao Sun, UCSD). 
+
+1. An Asymptotically F-Distributed Chow Test in the Presence of Heteroscedasticity and Autocorrelation, 2022,  Econometric Reviews, 41:2, 177-206 (with Yixiao Sun, UCSD)
+
+2. A Simple Asymptotically F-Distributed Portmanteau Test for Time Series Models with Uncorrelated Innovations, 2022, JBES, 40:2, 505-521 ( with Yixiao Sun, UCSD)
 
 3. Asymptotic F Tests under Possibly Weak Identification, 2020, Journal of Econometrics, 218 (1) 140-177 (with Julián Martínez-Iriarte and Yixiao Sun, UCSD).
 
