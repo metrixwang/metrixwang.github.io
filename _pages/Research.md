@@ -39,6 +39,7 @@ author_profile: true
 
 3.	Robust moment tests with asymptotically F distributions (with Yixiao Sun, UCSD).
 
-4.  Goodness of fit tests for high dimensional multivariate time series models. 
+4.  Specification testing for high dimensional linear models. 
 
 5. Time Series Model estimation with correlation of distances. (with Carlos Velasco).  
+
