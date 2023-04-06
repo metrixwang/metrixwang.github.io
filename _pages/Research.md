@@ -24,7 +24,7 @@ author_profile: true
 
 ## WORKING PAPERS
 
-1. <a href="https://github.com/metrixwang/metrixwang.github.io/blob/7cf8871e5402bf0a053aa24d4a33d91f882bc7b2/files/IV_Regression_2022_1.pdf">Instrumental variable estimation via a continuum of instruments with an application to estimating the elasticity of intertemporal substitution in consumption (2023)</a> <a href="www.metrixwang.github.io/files/US_Ascari.rar  ">Code</a> 
+1. <a href="https://github.com/metrixwang/metrixwang.github.io/blob/7cf8871e5402bf0a053aa24d4a33d91f882bc7b2/files/IV_Regression_2022_1.pdf">Instrumental variable estimation via a continuum of instruments with an application to estimating the elasticity of intertemporal substitution in consumption (2023)</a>, <a href="https://github.com/metrixwang/metrixwang.github.io/blob/28bb7f9dea40b34c6e7d45d108c34f73ef18085d/files/US_Ascari.rar">Code</a> 
  
 2.	Generalized spectral tests for high dimensional multivariate martingale difference hypotheses (2021).
 
