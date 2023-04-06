@@ -24,7 +24,9 @@ author_profile: true
 
 ## WORKING PAPERS
 
-1.	Instrumental variable estimation via a continuum of instruments with an application to estimating the elasticity of intertemporal substitution in consumption (2023).
+1.	
+<a href="url">Instrumental variable estimation via a continuum of instruments with an application to estimating the elasticity of intertemporal substitution in consumption (2023)</a>
+.
 
 2.	Generalized spectral tests for high dimensional multivariate martingale difference hypotheses (2021).
 
