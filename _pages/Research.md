@@ -25,7 +25,7 @@ author_profile: true
 
 ## WORKING PAPERS
 
-1. <a href="https://github.com/metrixwang/metrixwang.github.io/blob/02742c1973dfc88bd2480bf097e0ed8473b51858/files/IV_Regression_2024_new_WP.pdf">Instrumental variable estimation via a continuum of instruments with an application to estimating the elasticity of intertemporal substitution in consumption (2023)</a>, <a href="https://github.com/metrixwang/metrixwang.github.io/blob/28bb7f9dea40b34c6e7d45d108c34f73ef18085d/files/US_Ascari.rar">Code</a> 
+1. <a href="https://github.com/metrixwang/metrixwang.github.io/blob/02742c1973dfc88bd2480bf097e0ed8473b51858/files/IV_Regression_2024_new_WP.pdf">Instrumental variable estimation via a continuum of instruments with an application to estimating the elasticity of intertemporal substitution in consumption (2024)</a>, <a href="https://github.com/metrixwang/metrixwang.github.io/blob/28bb7f9dea40b34c6e7d45d108c34f73ef18085d/files/US_Ascari.rar">Code</a> 
  
 2.	Consistent Estimation of Models Defined by Conditional Moment Restrictions Under Minimal Identifying Conditions (2019).
 
