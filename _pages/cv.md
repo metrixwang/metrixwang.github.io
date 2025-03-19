@@ -33,12 +33,12 @@ redirect_from:
 
 7. A Joint Portmanteau Test for Conditional Mean and Variance Time Series Models, 2015, Journal of Time Series Analysis, Volume 36, 1, 39-60 (with Carlos Velasco, UC3M)
 
+8.  Generalized spectral tests for multivariate martingale difference hypotheses, 2024, Journal of Business & Economic Statistics, 42(4) 1195-1209.
+
 
 ## Working Papers
 
-1. Instrumental variable estimation via a continuum of instruments with an application to estimating the elasticity of intertemporal substitution in consumption (2021).
-
-2. Generalized spectral tests for high dimensional multivariate martingale difference hypotheses (2021).
+1. Instrumental variable estimation via a continuum of instruments with an application to estimating the elasticity of intertemporal substitution in consumption, 2024, with Carlos Velasco, UC3M.
 
 3. Consistent Estimation of Models Defined by Conditional Moment Restrictions Under Minimal Identifying Conditions (2019). 
 
@@ -49,9 +49,9 @@ redirect_from:
 
   2. A consistent overidentification test for linear models with weak instruments.
 
-  3. Robust moment tests with asymptotically F distributions (with Yixiao Sun, UCSD).
+  3. Specification Tests for High-dimensional Linear Regression Models.
   
-  4. Goodness of fit tests for high dimensional multivariate time series models.
+
 
 ## Teaching
 
