@@ -19,6 +19,7 @@ redirect_from:
 
 ## Publications 
 
+
 1. Generalized spectral tests for multivariate martingale difference hypotheses, 2024, Journal of Business & Economic Statistics, 42(4) 1195-1209.
 
 2. An Asymptotically F-Distributed Chow Test in the Presence of Heteroscedasticity and Autocorrelation, 2022,  Econometric Reviews, 41:2, 177-206 (with Yixiao Sun, UCSD)
