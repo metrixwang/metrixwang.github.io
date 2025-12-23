@@ -41,8 +41,7 @@ redirect_from:
 ## Working Papers
 
 1. Instrumental variable estimation via a continuum of instruments with an application to estimating the elasticity of intertemporal substitution in consumption, 2024, with Carlos Velasco, UC3M.
-2. 
-
+2. Generalized Spectral Tests for Martingale Difference Hypotheses of Functional Time Series
 3. Consistent Estimation of Models Defined by Conditional Moment Restrictions Under Minimal Identifying Conditions (2019). 
 
 
